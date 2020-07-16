@@ -4,11 +4,11 @@
 
 </div>
 
-### Back-end Engineer
-- Work back-end position at Technonia
-- I'm Studying at Konkuk University
+### ☝️ Back-end Engineer
+- Work back-end position at Technonia🏢
+- I'm Studying at Konkuk University🏤
 
-### Interest
+### ✌️ Interest
 - Node js(Express)
-- Android and Flutter
-- I like to do work out at Spoany Gym
+- Android and Flutter👀
+- I like to do work out at Spoany Gym💪🏻
