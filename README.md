@@ -10,5 +10,5 @@
 
 ### ✌️ Interest
 - Node js(Express)
-- Android and Flutter👀
+- Android Java and Kotlin 👀
 - I like to do work out at Spoany Gym💪🏻
