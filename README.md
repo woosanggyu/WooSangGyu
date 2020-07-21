@@ -6,7 +6,7 @@
 
 ### ☝️ Back-end Engineer
 - Work back-end position at Technonia🏢
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WooSangGyu&show_icons=true&hide_title=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WooSangGyu&show_icons=true" /></a>
 - I'm Studying at Konkuk University🏤
 
 
