@@ -16,4 +16,5 @@
 ### ✌️ Interest
 - Node js(Express)
 - Android Java and Kotlin 👀
+- React Native (Cross platform)
 - I like to do work out at Spoany Gym💪🏻
